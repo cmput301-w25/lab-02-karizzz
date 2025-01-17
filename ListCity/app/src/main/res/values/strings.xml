@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ListCity</string>
+    <string name="add_city">ADD CITY</string>
+    <string name="delete_city">DELETE CITY</string>
+    <string name="hint_city_input">Enter city name</string>
+</resources>
